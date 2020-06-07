@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">दुकान की सूची</string>
+    <string name="item_deleted">आइटम हटा दिया गया!</string>
+    <string name="item_added">आइटम जोड़ा गया!</string>
+    <string name="save">सहेजें</string>
+    <string name="saved">संरक्षित</string>
+    <string name="item_name">वस्तु का नाम</string>
+    <string name="all_deleted">सभी आइटम हटा दिए गए!</string>
+</resources>
